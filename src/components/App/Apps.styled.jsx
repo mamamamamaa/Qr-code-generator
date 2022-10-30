@@ -52,6 +52,7 @@ export const Box = styled.div`
   -webkit-box-shadow: 10px 10px 14px -1px rgba(0, 0, 0, 0.61);
   -moz-box-shadow: 10px 10px 14px -1px rgba(0, 0, 0, 0.61);
   box-shadow: 10px 10px 14px -1px rgba(0, 0, 0, 0.61);
+  transition: all 500ms linear, transform 500ms ease-in-out;
 `;
 
 export const Form = styled.form`
@@ -63,6 +64,7 @@ export const Form = styled.form`
       flex-direction: column;
     }
   }
+  transition: all 500ms linear, transform 500ms ease-in-out;
 `;
 
 export const Container = styled.div`
@@ -78,6 +80,7 @@ export const Container = styled.div`
   @media screen and (max-width: 800px) {
     & {
       flex-direction: column;
+      transition: all 500ms linear, transform 500ms ease-in-out;
     }
   }
 `;
