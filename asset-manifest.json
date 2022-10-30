@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Qr-code-generator/static/css/main.ccc5fd00.css",
-    "main.js": "/Qr-code-generator/static/js/main.daf59242.js",
+    "main.js": "/Qr-code-generator/static/js/main.0d90ea9f.js",
     "index.html": "/Qr-code-generator/index.html",
     "main.ccc5fd00.css.map": "/Qr-code-generator/static/css/main.ccc5fd00.css.map",
-    "main.daf59242.js.map": "/Qr-code-generator/static/js/main.daf59242.js.map"
+    "main.0d90ea9f.js.map": "/Qr-code-generator/static/js/main.0d90ea9f.js.map"
   },
   "entrypoints": [
     "static/css/main.ccc5fd00.css",
-    "static/js/main.daf59242.js"
+    "static/js/main.0d90ea9f.js"
   ]
 }
