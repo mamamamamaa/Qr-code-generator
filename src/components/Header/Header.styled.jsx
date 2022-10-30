@@ -1,14 +1,15 @@
-import styled from "@emotion/styled";
+import styled from '@emotion/styled';
 
 export const StyledHeader = styled.header`
-  position: fixed;
-  width: 100%;
-  padding: 0 20px;
+  position: relative;
+  z-index: 999;
   height: 70px;
+  padding: 0 30px;
   background-color: #002e41;
   color: #fff;
   display: flex;
   align-items: center;
+  justify-content: space-between;
 `;
 
 export const Logo = styled.span`

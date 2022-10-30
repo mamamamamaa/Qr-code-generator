@@ -37,7 +37,7 @@ export const StyledBtn = styled(Button)`
 
 export const AppContainer = styled.div`
   display: flex;
-  height: 100vh;
+  height: 70vh;
   position: relative;
   width: 100%;
   transition: cubic-bezier(0.1, 0.69, 0.83, 0.67);
